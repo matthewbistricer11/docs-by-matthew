@@ -1,4 +1,4 @@
-# Understanding the Basics of APIs
+# Demystifying APIs: The Key to Seamless Communication Between Computer Programs
 
 ## Introducing APIs
 An application programming interface (API) is how two or more computer programs communicate with each other.  APIs are very important because they increase the speed, quality, and functionality behind every digital touchpoint that occurs. An API specification is a document that describes how to establish and use a connection or interface. 
